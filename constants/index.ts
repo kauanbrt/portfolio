@@ -9,7 +9,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Css",
-      Image: "/css.png",
+      Image: "./css.png",
       width: 80,
       height: 80,
       x: -550,
@@ -79,7 +79,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Node js",
-      Image: "/node-js.png",
+      Image: "./node-js.png",
       width: 80,
       height: 80,
       x: -80,
@@ -169,7 +169,7 @@ export const Skill_data = [
   export const Socials = [
     // {
     //   name: "Discord",
-    //   src: "/discord.svg",
+    //   src: "./discord.svg",
     // },
     {
       name: "LinkedIn",
@@ -235,7 +235,7 @@ export const Skill_data = [
     },
     // {
     //   skill_name: "Type Script",
-    //   Image: "/ts.png",
+    //   Image: "./ts.png",
     //   width: 80,
     //   height: 80,
     // },
@@ -268,7 +268,7 @@ export const Skill_data = [
     },
     // {
     //   skill_name: "Mongo db",
-    //   Image: "/mongodb.png",
+    //   Image: "./mongodb.png",
     //   width: 40,
     //   height: 40,
     // },
