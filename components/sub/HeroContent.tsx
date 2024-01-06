@@ -57,7 +57,7 @@ const HeroContent = () => {
       >
         <a target="_blank" href="https://storyset.com/people">
           <Image
-            src="/astronaut-bg-hidden.svg"
+            src="./astronaut-bg-hidden.svg"
             alt="astronaut"
             height={750}
             width={750}

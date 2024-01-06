@@ -25,7 +25,7 @@ const Orbit = () => {
         <div className="flex items-center justify-center rounded-full static">
         <div className="w-4/5 h-screen relative flex items-center justify-center rounded-full bg-circularOrbit">
             <Image
-                src="/web.png"
+                src="./web.png"
                 alt="web"
                 width={70}
                 height={70}
